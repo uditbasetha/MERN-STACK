@@ -1,0 +1,39 @@
+.box{
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;
+    margin: 10px;
+    
+}
+#udit{
+    background-color: orange;
+}
+
+#balveer{
+    background-color: white;
+    margin-left: 90px;
+    margin-top: -20px;
+}
+#kuldeep{
+    background-color: green;
+    margin-top: 20px;
+}
+#sandeep{
+    background-color: blue;
+    margin-left: 250px;
+    margin-top: -170px;
+}
+#nisha{
+    background-color: firebrick;
+    margin-left: 180px;
+}
+#tanveer{
+    background-color: blueviolet;
+    margin-left: 250px;
+    margin-top: -18px;
+}
+#tanu{
+    background-color: cadetblue;
+    margin-left: 350px;
+    margin-top: -110px;
+}
